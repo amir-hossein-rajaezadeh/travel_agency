@@ -1,5 +1,6 @@
 import 'package:travel_agency/models/place_model.dart';
 
+//Fake place list
 final List<PlaceModel> placeList = [
   PlaceModel(
       name: 'Dubai',
