@@ -1,16 +1,19 @@
 # travel_agency
 
-A new Flutter project.
+A travel agency project.
 
-## Getting Started
+This project is based on #flutter_bloc(cubit) as state_manager, #video_player to play videos, #google_font for the app´s font, and #go_router as navigation manager. You can scroll right or left to see interesting places and long press on videos to make them full-screen.
 
-This project is a starting point for a Flutter application.
+The project design is a dribble shot(design link provided below)
+Design link: https://dribbble.com/shots/23601853-Travel-Guide-Mobile-iOS-App
 
-A few resources to get you started if this is your first Flutter project:
+## Images:  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Search page](doc/images/image1.png) 
+![Home page](doc/images/image2.png) 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+Hope you like it 🤗
+
+Please press the star button if you like it ❤️
