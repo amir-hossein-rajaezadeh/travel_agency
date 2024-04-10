@@ -16,4 +16,4 @@ Design link: https://dribbble.com/shots/23601853-Travel-Guide-Mobile-iOS-App
 
 Hope you like it 🤗
 
-Please press the star button if you like it ❤️
+Hit that star button if you like it ❤️
